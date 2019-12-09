@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30c642-2ed5-4c08-b6cc-395f6d8c8c94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite3/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite3/settings/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite3/settings/development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite3/settings/production.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,22 +29,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TNUVpF9pFoVmvTkUGffBUTxD9Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/user/templates/user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\gwh\templates" />
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates\user" />
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates\user" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\read_stastic" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\blogss\static\blog" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates\user" />
-      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,6 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
