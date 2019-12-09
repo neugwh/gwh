@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30c642-2ed5-4c08-b6cc-395f6d8c8c94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite3/settings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite3/settings/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite3/settings/development.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite3/settings/production.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite3/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/settings/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite3/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573300072312</updated>
     </task>
+    <task id="LOCAL-00001" summary="部署">
+      <created>1575896809106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575896809106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="部署" />
+    <option name="LAST_COMMIT_MESSAGE" value="部署" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
