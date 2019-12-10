@@ -26,7 +26,7 @@ active
   <div class="panel-body">
     <h3>{{blog.title}}</h3>
             <ul class="blog_info_description">
-<li>作者：{{blog.author}}</li>
+<li>作者：{{blog.author.get_nickname_or_username}}</li>
             <li>
     分类:<a href="{%url 'blogs_with_type' blog.blog_type.pk%}">
     {{blog.blog_type}}</a>
