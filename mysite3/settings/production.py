@@ -25,7 +25,7 @@ from django.conf.global_settings import STATICFILES_DIRS
 SECRET_KEY = os.environ['SECRET_KEY']
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 DATABASE_PASSWORD = os.environ['DATABASE_PASSWORD']
