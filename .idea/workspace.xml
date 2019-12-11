@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c30c642-2ed5-4c08-b6cc-395f6d8c8c94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/upload/2019/11/16/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/upload/2019/11/16/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/upload/2019/11/16/370284199901031211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/upload/2019/11/23/jdurup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/upload/2019/12/10/svtxfi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite3/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/settings/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite3/settings/development.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/settings/development.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite3/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/settings/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogss/templates/blog/blog_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogss/templates/blog/blog_list.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
