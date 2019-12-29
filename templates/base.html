@@ -61,7 +61,11 @@ $(function(){
 
 <body>
 
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation"><!--导航栏 固定在顶部-->
+
+
+        {%block content%}
+        {%endblock%}
+ <div class="navbar navbar-default navbar-fixed-top" role="navigation"><!--导航栏 固定在顶部-->
 
     <div class="container-fluid"><!--充满全局-->
         <div class="navbar-header">
@@ -126,10 +130,6 @@ $(function(){
             <a href="http://www.beian.miit.gov.cn/">鲁ICP备19064149号-1</a>
             <p>Copyright©2019 guanweihong.ren 版权所有管伟鸿</p>
         </div>
-
-
-        {%block content%}
-        {%endblock%}
 
 
 {%block script_extends %}{% endblock %}
