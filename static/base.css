@@ -40,11 +40,19 @@ border:none;
 margin-left:-3em;
 color:#aaa;
 }
-div.footer {
-    margin-top: 5em;
+.footer
+        {
+            position:absolute;
+            right:0px;
+            bottom:0px;
 
-    color: #555;
-}
+            color:#555;
+            display:block;
+            width:100%;
+            text-align:center;
+            z-index: 10;
+        }
+
 div.website-info {
     text-align: center;
     padding-top: 2em;
