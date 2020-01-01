@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c30c642-2ed5-4c08-b6cc-395f6d8c8c94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +33,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\gwh" />
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\gwh\templates" />
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates\user" />
+      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\gwh\media" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates\user" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user" />
       <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\read_stastic" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\Desktop\bb\blogg\gwh\templates" />
-      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\user\templates\user" />
-      <recent name="C:\Users\lenovo\Desktop\bb\blogg\mysite3\templates" />
     </key>
   </component>
   <component name="RunDashboard">
