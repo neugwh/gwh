@@ -6,12 +6,11 @@ padding:0;
 body
 {margin-top: 80px!important;
 overflow:auto;
-background-image: url(/static/a.jpg);
-
+background: url(/static/a.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-o-background-size: cover;
 background-size: cover;
-  background-position: 50% 0px;
 
-  background-repeat: no-repeat no-repeat;
 
 }
 

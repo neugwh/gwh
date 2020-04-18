@@ -18,6 +18,7 @@ from read_stastic.models import ReadNum
 def get_blog_common(request, blog_all_list):
     paginator = Paginator(blog_all_list, settings.EACH_PAGE_NUMBER)
     page_num = request.GET.get('page', 1)  # 返回一个字典,默认值是1
+    print(page_num)
     page_of_blogs = paginator.get_page(page_num)  # 返回对应页的博客
     current_page_num = page_of_blogs.number  # 获取当前页
     print(current_page_num)
